@@ -34,6 +34,7 @@ Instead of providing only basic definition-based questions, the application focu
 4. Specify the number of questions.
 5. The AI model generates relevant technical interview questions.
 6. View detailed answers, explanations, practical examples, keywords, and follow-up questions.
+7. Use Clear Results to remove the previously generated interview questions and start a new preparation session.
 
 ## 🎯 Objective
 
